@@ -4,6 +4,8 @@ Bootcamp introduction to Github, Sep 2018
 
 ## Useful git commands:
 
+```
+
 Clone directory to local computer: git clone <http address>
 
 Update directory: git pull
@@ -27,3 +29,5 @@ Check remote: git remote (-v)
 Check logs: git log (--oneline, | wc)
 
 Help commands: git help
+
+```
