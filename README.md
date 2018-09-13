@@ -1,6 +1,7 @@
 # Introduction to Git
 
 Bootcamp introduction to Github, Sep 2018
+[Subject to update] 
 
 ## Useful git commands:
 
