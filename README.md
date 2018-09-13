@@ -1,4 +1,4 @@
-# intro-to-git
+# Introduction to Git
 
 Bootcamp introduction to Github, Sep 2018
 
@@ -31,3 +31,4 @@ Check logs: git log (--oneline, | wc)
 Help commands: git help
 
 ```
+
